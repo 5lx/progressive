@@ -17,7 +17,7 @@ long_description = read('README.md')
 
 
 setup(
-    name="progressive",
+    name="progressive2",
     version=progressive.__version__,
     url='https://github.com/hfaran/progressive',
     license='MIT License',
